@@ -1,5 +1,5 @@
 .background {
-    background: center no-repeat url(background.webp);
+    background: center no-repeat rgb(0, 0, 0);
 }
 .logo {
     background-image: url(logo.png);
