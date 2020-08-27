@@ -2,11 +2,11 @@
     background: center no-repeat rgb(0, 0, 0);
 }
 .logo {
-    background-image: url(logo.png);
+    background-image: url(logo.webp);
 }
 .progressBar {
     background-color: rgb(97, 196, 126);
 }
 .splash {
-    background-image: url(splash.png);
+    background-image: url(splash.webp);
 }
