@@ -1,0 +1,12 @@
+.background {
+    background: center no-repeat url(background.webp);
+}
+.logo {
+    background-image: url(logo.png);
+}
+.progressBar {
+    background-color: rgb(226, 71, 60);
+}
+.splash {
+    background-image: url(splash.png);
+}
